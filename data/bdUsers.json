@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan2",
+      "apellido": "Méndez2",
+      "correo": "repoyito@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Stiven",
+      "apellido": "Gonzalez",
+      "correo": "stevengm45@gmail.com",
+      "id": 5
+    },
+    {
+      "nombre": "Stiven",
+      "apellido": "Gonzalez",
+      "correo": "stevengm45@gmail.com",
+      "id": 6
+    }
+  ]
+}
